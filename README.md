@@ -105,7 +105,7 @@ CS student at [**Epitech**](https://www.epitech.eu/) in France
 <div align="center">
 
 [![Email](https://img.shields.io/badge/contact@gabz.sh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gabz.sh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-brument-07b8a529b/)
+<a href="https://www.linkedin.com/in/gabriel-brument-07b8a529b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br>
 
