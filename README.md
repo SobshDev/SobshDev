@@ -1,20 +1,126 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate developer from France</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sobshdev&label=Profile%20views&color=0e75b6&style=flat" alt="sobshdev" /> </p>
+# Hey, I'm Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-- 🇫🇷 I’m currently studying at [Epitech](https://www.epitech.eu/)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Low-level+enthusiast;Full-stack+developer;Systems+programmer;Always+learning+something+new" alt="Typing SVG" /></a>
 
-- 🌱 I’m currently learning **Assembly and CPP**
+<br>
 
-- 📫 How to reach me **gabriel.brument@epitech.eu**
+CS student at [**Epitech**](https://www.epitech.eu/) in France
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gabriel-brument-07b8a529b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/gabriel-brument-07b8a529b" height="30" width="40" /></a>
-<a href="https://instagram.com/gabz.sala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabz.sala" height="30" width="40" /></a>
-<a href="sobsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sobsh" height="30" width="40" /></a>
-</p>
+*Building software that performs — from bare-metal assembly to production web applications.*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<br>
+
+> *"The people who are crazy enough to think they can change the world are the ones who do."*
+>
+> — Steve Jobs
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" alt="separator">
+
+<br>
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Frameworks & Tools
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" alt="separator">
+
+<br>
+
+## 🚀 What I'm Working On
+
+<div align="center">
+
+```
+🚀 Momentum — AI-powered coaching application
+```
+
+</div>
+
+<br>
+
+## 📂 Notable Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|:-------:|:------------|:----:|
+| **Train Delay Predictor** | ML model that predicts train delays using historical data | `Python` `ML` |
+| **Custom Shell** | Advanced UNIX shell implementation | `C` |
+| **RedCode Assembler** | Transforms RedCode assembly into executable bytecode | `C` `ASM` |
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" alt="separator">
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sobshdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobshdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" height="170"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sobshdev&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" alt="separator">
+
+<br>
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/contact@gabz.sh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gabz.sh)
+[![LinkedIn](https://img.shields.io/badge/Gabriel_Brument-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-brument-07b8a529b/)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sobshdev&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+⚡ Building things that matter, one commit at a time.
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
