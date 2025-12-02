@@ -90,12 +90,6 @@ CS student at [**Epitech**](https://www.epitech.eu/) in France
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sobshdev&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-</div>
-
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=1" alt="separator">
 
 <br>
