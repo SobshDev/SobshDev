@@ -67,11 +67,9 @@ CS student at [**Epitech**](https://www.epitech.eu/) in France
 
 <div align="center">
 
-| Project | Description | Tech |
-|:-------:|:------------|:----:|
-| [**TARDIS**](https://github.com/SobshDev/Tardis) | Train delay prediction system using XGBoost classification on SNCF data, with interactive Streamlit dashboard | `Python` `scikit-learn` `XGBoost` |
-| [**JOEL_sh**](https://github.com/SobshDev/JOEL_sh) | Feature-rich UNIX shell with piping, redirections, and built-in ChatGPT integration for AI-assisted commands | `C` `libcurl` |
-| [**Corewar Assembler**](https://github.com/SobshDev/Corewar_Assembler) | Low-level assembler converting Corewar champion source files into executable bytecode with full label resolution | `C` `ASM` |
+[![TARDIS](https://img.shields.io/badge/🚂_TARDIS-Train_Delay_Prediction-6C63FF?style=for-the-badge)](https://github.com/SobshDev/Tardis)
+[![JOEL_sh](https://img.shields.io/badge/🐚_JOEL__sh-AI--Powered_Shell-6C63FF?style=for-the-badge)](https://github.com/SobshDev/JOEL_sh)
+[![Corewar](https://img.shields.io/badge/⚔️_Corewar-Bytecode_Assembler-6C63FF?style=for-the-badge)](https://github.com/SobshDev/Corewar_Assembler)
 
 </div>
 
