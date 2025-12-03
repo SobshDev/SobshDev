@@ -69,9 +69,9 @@ CS student at [**Epitech**](https://www.epitech.eu/) in France
 
 | Project | Description | Tech |
 |:-------:|:------------|:----:|
-| **Train Delay Predictor** | ML model that predicts train delays using historical data | `Python` `ML` |
-| **Custom Shell** | Advanced UNIX shell implementation | `C` |
-| **RedCode Assembler** | Transforms RedCode assembly into executable bytecode | `C` `ASM` |
+| [**TARDIS**](https://github.com/SobshDev/Tardis) | Train delay prediction system using XGBoost classification on SNCF data, with interactive Streamlit dashboard | `Python` `scikit-learn` `XGBoost` |
+| [**JOEL_sh**](https://github.com/SobshDev/JOEL_sh) | Feature-rich UNIX shell with piping, redirections, and built-in ChatGPT integration for AI-assisted commands | `C` `libcurl` |
+| [**Corewar Assembler**](https://github.com/SobshDev/Corewar_Assembler) | Low-level assembler converting Corewar champion source files into executable bytecode with full label resolution | `C` `ASM` |
 
 </div>
 
