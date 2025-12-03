@@ -82,8 +82,8 @@ CS student at [**Epitech**](https://www.epitech.eu/) in France
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-weld-three-82.vercel.app/api?username=sobshdev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats-weld-three-82.vercel.app/api/top-langs/?username=sobshdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-weld-three-82.vercel.app/api?username=sobshdev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&cache_seconds=3600" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-weld-three-82.vercel.app/api/top-langs/?username=sobshdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&cache_seconds=3600" alt="Top Languages" height="170"/>
 </div>
 
 <br>
