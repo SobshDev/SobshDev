@@ -4,7 +4,7 @@ Software engineer focused on developer tools, AI applications, and systems progr
 
 I'm building [Mentem](https://mentem.app), a shared workspace for teams and coding agents to work with the same project context. My interests span low-level programming in C and C++ to full-stack applications in TypeScript.
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-brument/) · [Email](mailto:contact@gabz.sh)
+[LinkedIn](https://www.linkedin.com/in/gabriel-brument/) · [Email](mailto:gabriel@mentem.app)
 
 ## Selected work
 
